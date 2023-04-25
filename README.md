@@ -8,6 +8,7 @@ The table can be filtered by the following parameters: full name, faculty, year 
 Any object (student) can be deleted. Deletion occurs not only from the table, but also from the server.
 
 P.S. This is my first JS application.
+P.S.S. the backend part of the application was written by the course teacher, I was only engaged in the frontend part.
 
 В этом репозитории представлено небольшое приложение, которое показывает клиент-серверное взаимодействие.
 В поля вводятся соответствующие данные студента, которые добавляются на сервер, где создается объект с этими данными.
@@ -17,5 +18,5 @@ P.S. This is my first JS application.
 Любой объект(студента) можно удалить. Удаление происходит не только из таблицы, но и с сервера.
 
 P.S. Это мое первое JS приложение.
-
+P.S.S. bakend часть приложения писал преподаватель курсов, я занималась только frontend частью.
  
